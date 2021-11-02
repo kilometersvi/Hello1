@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="milesmilos-Blade" name="javaapplication1.JavaApplication1Test" skipped="0" tests="5" time="0.045" timestamp="2021-10-26T01:43:24">
+<testsuite errors="0" failures="0" hostname="milesmilos-Blade" name="javaapplication1.JavaApplication1Test" skipped="0" tests="5" time="0.041" timestamp="2021-10-26T01:50:57">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="libs.jakartaee-web-api-8.0.src" value="" />
@@ -50,7 +50,7 @@
     <property name="libs.spring-webmvc5.0.javadoc" value="" />
     <property name="libs.spring-framework500.classpath" value="/snap/netbeans/50/netbeans/platform/modules/org-apache-commons-logging.jar:/snap/netbeans/50/netbeans/java/modules/ext/cglib-2.2.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-aop-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-aspects-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-beans-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-context-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-context-indexer-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-context-support-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-core-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-expression-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-instrument-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-jcl-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-jdbc-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-jms-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-messaging-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-orm-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-oxm-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-test-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-tx-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-web-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-webflux-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-webmvc-5.2.9.RELEASE.jar:/snap/netbeans/50/netbeans/java/modules/ext/spring-5/spring-websocket-5.2.9.RELEASE.jar" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner javaapplication1.JavaApplication1Test skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/milesmilos/Documents/courses/SE330/Hello1/JavaApplication1/build/test/results/TEST-javaapplication1.JavaApplication1Test.xml crashfile=/home/milesmilos/Documents/courses/SE330/Hello1/JavaApplication1/build/junitvmwatcher588826860261834532.properties propsfile=/home/milesmilos/Documents/courses/SE330/Hello1/JavaApplication1/build/junit8715089565561643957.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner javaapplication1.JavaApplication1Test skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/milesmilos/Documents/courses/SE330/Hello1/JavaApplication1/build/test/results/TEST-javaapplication1.JavaApplication1Test.xml crashfile=/home/milesmilos/Documents/courses/SE330/Hello1/JavaApplication1/build/junitvmwatcher3198509946179878247.properties propsfile=/home/milesmilos/Documents/courses/SE330/Hello1/JavaApplication1/build/junit3780593616791908112.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="build.sysclasspath" value="ignore" />
     <property name="manifest.encoding" value="UTF-8" />
@@ -221,7 +221,6 @@
     <property name="javadoc.encoding.used" value="UTF-8" />
     <property name="dist.jar" value="dist/JavaApplication1.jar" />
     <property name="libs.spring-framework400.maven-pom" value="" />
-    <property name="netbeans.automatic.build" value="true" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
     <property name="debug.test.modulepath" value="" />
     <property name="ant.project.name" value="JavaApplication1" />
@@ -374,11 +373,11 @@
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
     <property name="libs.javaee-web-api-7.0.javadoc" value="/snap/netbeans/50/netbeans/enterprise/docs/javaee-doc-api.jar" />
   </properties>
-  <testcase classname="javaapplication1.JavaApplication1Test" name="testAdd" time="0.002" />
+  <testcase classname="javaapplication1.JavaApplication1Test" name="testAdd" time="0.001" />
   <testcase classname="javaapplication1.JavaApplication1Test" name="testSubtract" time="0.0" />
   <testcase classname="javaapplication1.JavaApplication1Test" name="testCube" time="0.0" />
   <testcase classname="javaapplication1.JavaApplication1Test" name="testSqrt" time="0.0" />
-  <testcase classname="javaapplication1.JavaApplication1Test" name="testSquare" time="0.001" />
+  <testcase classname="javaapplication1.JavaApplication1Test" name="testSquare" time="0.0" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

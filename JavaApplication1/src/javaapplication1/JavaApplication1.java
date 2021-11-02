@@ -35,7 +35,14 @@ public class JavaApplication1 {
     }
     public static double subtract(int x, int x2){
         return x - x2;
-    }   
+    } 
+    public static double multiply(int x, int x2){
+        return x * x2;
+    }
+    public static double divide(int x, int x2){
+        return x / x2;
+    }
+
     /*
     public static String getInput(Scanner sc) {
         //Scanner myObj = new Scanner(System.in);  // Create a Scanner object
